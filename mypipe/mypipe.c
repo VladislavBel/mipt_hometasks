@@ -50,7 +50,6 @@ int main(int argc, char* argv[])
 			strings++;
 			ptr++;
 		}
-
 				
 	}
 	printf("%d, %d, %d", strings, words, chars);
